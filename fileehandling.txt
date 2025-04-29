@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+
+ my_file=open('mycow.txt','r')
+# # print(my_file)
+text=my_file.read()
+#text=my_file.readline()
+ print(text)
+
+
+
+
+# my_file=open('mycow.txt','r')
+# for i in range(7):
+#    text=my_file.readline()
+#    print(text)
+
